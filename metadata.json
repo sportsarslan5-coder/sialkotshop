@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sialkot Shop",
+  "description": "An elegant e-commerce landing page concept showcasing the world-renowned products of Sialkot, Pakistan. Discover premium quality sports goods, leather products, and surgical instruments from the city of craftsmanship.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
